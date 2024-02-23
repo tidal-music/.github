@@ -1,6 +1,6 @@
 ![Banner](https://github.com/tidal-music/.github/blob/main/profile/banner.png)
 
-[TIDAL Developer](https://developer.tidal.com/) - [TIDAL careers](https://careers.tidal.com/) - [TIDAL.com](https://tidal.com/) 
+[TIDAL Developer](https://developer.tidal.com) - [TIDAL Careers](https://careers.tidal.com) - [TIDAL.com](https://tidal.com) - [Open Source Policies](https://github.com/square/.github/blob/main/BLOCKS_OPEN_SOURCE_POLICIES.md)
 
 ### Welcome to tidal-music!
 
