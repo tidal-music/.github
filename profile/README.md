@@ -1,6 +1,8 @@
 ![Banner](https://github.com/tidal-music/.github/blob/main/profile/banner.png)
 
-Welcome to [TIDAL](https://tidal.com) Music!
+[TIDAL Developer](https://developer.tidal.com/) - [TIDAL careers](https://careers.tidal.com/) - [TIDAL.com](https://tidal.com/) 
+
+### Welcome to tidal-music!
 
 This is the place where we publish, share and maintain the parts of our codebase that we make available through
 the [TIDAL Developer Platform](https://developer.tidal.com) initiative.
